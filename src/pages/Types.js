@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { coffeeTypes } from "../data/coffeeTypes";
 import Buttons from "../components/Buttons";

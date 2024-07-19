@@ -2,7 +2,7 @@
 
 ![cover](.../../src/assets/cover.jpg)
 
-<center> View Demo <a href="https://coffee-app-react.netlify.app/" target="_blank">React Coffee App</a> </center>
+<center> View Demo <a href="" target="_blank">React Coffee App</a> </center>
 
 ## 🦉 Main information
 
